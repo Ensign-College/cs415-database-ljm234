@@ -14,6 +14,6 @@ Thumbs.db
 *.swo
 *~
 
-# Database data (en caso de que docker monte volúmenes locales)
+# Database data
 postgres-data/
 pgdata/
